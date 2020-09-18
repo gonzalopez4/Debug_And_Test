@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj": {}
+    "c:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj": {
+    "c:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj",
+        "projectPath": "c:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\obj\\",
+        "outputPath": "c:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"

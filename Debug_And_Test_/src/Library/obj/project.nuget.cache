@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nNM2y+qWtY3BOq5rIUBq8mCwC8mGEWKyC1wiLk6Vs/HfS1Ye3t+Dyclup6tq5jzJB+Igj79+oEOPYIApq9tWow==",
+  "dgSpecHash": "IvBhVzR1p5TCTWBeNz2A1QGZXVxqfOlhFpGVWog8L1Z1RqFOyLRqmQclca1K0yhSAQn8yoUz7uQOvIK7DMd6zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj",
+  "projectFilePath": "c:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

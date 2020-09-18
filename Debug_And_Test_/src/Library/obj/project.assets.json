@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "c:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Administrador\\Desktop\\PII_Debug_And_Test_Person-master\\src\\Library\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\tests\\person_test_debug-master\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
